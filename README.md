@@ -6,7 +6,7 @@
 
     ### iOS
       
-    1. Run `pod install` from `jandaner/ios` folder
+    1. Run `pod install` from `Jandaner/ios` folder
     
     ### Android
     

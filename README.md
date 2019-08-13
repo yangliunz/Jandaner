@@ -1,3 +1,9 @@
+## About Jandaner
+
+This is a mobile client application for Jandan.net
+
+Using React Native/Redux/Saga/Typescript
+
 ## Getting started
 
 1. Install React Native as described at [https://facebook.github.io/react-native/docs/getting-started.html#content](https://facebook.github.io/react-native/docs/getting-started.html#content)
